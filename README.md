@@ -8,7 +8,7 @@
 Realtime Chatapp using Laravel, VueJS, and Pusher.
 
 - git clone https://github.com/nukipratama/laravel-vue-chatapp.git
-- cd laraevl-vue-chatapp/
+- cd laravel-vue-chatapp/
 - composer install
 - npm install && npm run dev
 - php artisan key:generate
